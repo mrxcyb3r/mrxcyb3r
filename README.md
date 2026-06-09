@@ -1,5 +1,5 @@
 # 💫 About Me:
-Elshodbek Muxtorov (Master Tech Code) 💻<br><br>
+Elshodbek Muxtorov (MRX) 💻<br><br>
 Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on building modern, responsive, and user-friendly web applications.<br><br>
 
 🛠 Skills<br><br>
