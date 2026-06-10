@@ -2,9 +2,6 @@
 Elshodbek Muxtorov (MRX) 💻<br><br>
 Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on building modern, responsive, and user-friendly web applications.<br><br>
 
-🛠 Skills<br><br>
-<!-- Skills order: HTML, CSS, Sass, Bootstrap, TypeScript, Netlify, React, Next.js, Jest -->
-HTML5 | CSS3 | Bootstrap | TypeScript | Netlify | React.js | 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/mrx404notfound)
@@ -21,6 +18,7 @@ HTML5 | CSS3 | Bootstrap | TypeScript | Netlify | React.js |
 <!-- Ordered tech stack -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
