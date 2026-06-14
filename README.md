@@ -4,9 +4,9 @@ Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on buildin
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/mrx404notfound)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/mrx__404)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=12)](https://instagram.com/MasterTechCode)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=12)](https://x.com/MasterTech_Code)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=12)](https://x.com/mrx__404)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=12)](mailto:elshodbekmuxtorov44@gmail.com)
 [![Guns.lol](https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=12)](https://guns.lol/mrx404)
 [![Blog](https://img.shields.io/badge/Blog-0000FF?style=for-the-badge&logo=medium&logoColor=white&logoWidth=12)](https://readme-blog.netlify.app/)
