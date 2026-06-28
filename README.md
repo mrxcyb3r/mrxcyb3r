@@ -1,142 +1,70 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Elshodbek+Muxtorov+(MRX);Cybersecurity+Student;Future+Penetration+Tester;Networking+%7C+Python+%7C+Linux" alt="Typing SVG" />
+# 👋 Hi, I'm **Elshodbek Muxtorov (MRX)**
 
-### 🛡️ *Learning • Building • Securing*
+### 🛡️ Aspiring Penetration Tester • Cybersecurity Student
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,50:007CF0,100:001F3F&text=Cybersecurity%20Journey&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity;Python;Linux;Ethical+Hacking;Always+Learning" />
+
+*"Learn deeply. Practice consistently. Build ethically."*
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 Who Am I?
 
-```yaml
-Name: Elshodbek Muxtorov
-Alias: MRX
-Location: Uzbekistan 🇺🇿
-Role: Cybersecurity Student
-Current Focus:
-  - Networking
-  - Python
-  - Linux
-  - Ethical Hacking
-Goal:
-  - Become a Professional Penetration Tester
-```
+I'm **Elshodbek Muxtorov**, a student from **Uzbekistan** with a passion for technology and cybersecurity.
 
-> I'm passionate about understanding how computers, operating systems, and networks work beneath the surface.
-> My journey is centered around **Cybersecurity**, **Networking**, **Linux**, and **Python**, where I build hands-on projects, document everything I learn, and continuously improve through practice.
+I started my journey in **frontend development**, where I learned to build responsive web applications using modern web technologies. As I explored how web applications work behind the scenes, my curiosity shifted toward **cybersecurity**—understanding how systems operate, how vulnerabilities are discovered, and how they can be secured.
+
+Today, my primary focus is on building a strong foundation in **Cybersecurity**, **Linux**, and **Python**, while documenting everything I learn through hands-on projects and GitHub repositories.
 
 ---
 
-# 🚀 Current Roadmap
+## 🎯 Current Goals
 
-<table>
-<tr>
-<td width="50%">
+* 🛡️ Build a solid cybersecurity foundation
+* 🐍 Master Python for automation and security
+* 🐧 Become highly proficient with Linux
+* 📚 Create practical cybersecurity projects
+* 🏴‍☠️ Practice ethical hacking in labs and CTFs
+* 🚀 Become a professional Penetration Tester
+
+---
+
+## ⚡ Tech Stack
 
 ### 🛡️ Cybersecurity
-
-* Network Security
-* Ethical Hacking
-* Linux Fundamentals
-* Security Concepts
-
-</td>
-
-<td width="50%">
-
-### 🌐 Networking
-
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Routing & Switching
-* VPN
-* SSH
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🐍 Programming
-
-* Python
-* Bash Scripting
-* Automation
-
-</td>
-
-<td>
-
-### 🎯 Future
-
-* Web Pentesting
-* Active Directory
-* Malware Analysis
-* Red Teaming
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ Tech Arsenal
-
-## 🛡️ Cybersecurity
 
 <p>
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-## 🐍 Programming
+### 🐍 Programming
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-## 🌐 Networking
-
-<p>
-<img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSH-111111?style=for-the-badge"/>
-</p>
-
-## 💡 Previous Experience
+### 💻 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 🎯 Mission
-
-<div align="center">
-
-|    📖 Learn   | 🧠 Practice |     ⚡ Build     |      🚀 Improve     |
-| :-----------: | :---------: | :-------------: | :-----------------: |
-|   Networking  |    Python   |  Security Tools |      Every Day      |
-|     Linux     |     Labs    |    Automation   | Document Everything |
-| Cybersecurity |     CTFs    | GitHub Projects | Never Stop Learning |
-
-</div>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://discord.gg/mrx__404"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -150,10 +78,8 @@ Goal:
 
 <div align="center">
 
-## 💭 Philosophy
+### 💭 Philosophy
 
-> **"Learn deeply. Practice consistently. Build ethically."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:001F3F,50:007CF0,100:00F7FF"/>
+> **"Every expert was once a beginner. Keep learning, keep building, and never stop improving."**
 
 </div>
