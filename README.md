@@ -1,132 +1,90 @@
-<div align="center">
+ <div align="center">
 
-### MRX
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=MRX&fontSize=90&fontColor=39FF14&stroke=00D9FF&animation=fadeIn&color=0:050816,100:0D1117" alt="MRX" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=580&lines=Software+Developer;Web+Application+Engineer;Linux+%2B+Hyprland+User;Cybersecurity+Student;Aspiring+Penetration+Tester" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=520&height=35&lines=student+%2F+developer;building+something+real;learning+by+doing;Arch+Linux+%7C+Hyprland;always+getting+better" alt="Animated introduction" />
 
-**Building software. Understanding systems. Learning how to secure them.**
+<br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,ts,react,kali" alt="Linux, Python, TypeScript, React, Kali Linux" />
+`UZBEKISTAN` &nbsp;·&nbsp; `STUDENT DEVELOPER` &nbsp;·&nbsp; `LINUX USER`
+
+<br>
+
+*Building software. Breaking problems down. Getting better every day.*
+
+<br>
+
+<a href="https://github.com/mrxcyb3r"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14" alt="GitHub" /></a>
+<a href="https://x.com/mrx__404"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00D9FF" alt="X" /></a>
+<a href="https://guns.lol/mrx404"><img src="https://img.shields.io/badge/Links-0D1117?style=flat-square&logo=linktree&logoColor=39FF14" alt="Personal links" /></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:0D1117,50:39FF14,100:00D9FF&section=footer" width="100%" alt="" />
-
-<br>
-
-## About
-
-MRX — a student and software developer from Uzbekistan moving from full-stack web development toward cybersecurity. Builds real web applications, works daily in Linux, and is actively learning networking, web security, Python automation, and penetration testing.
-
-<br>
-
-## Quick Profile
-
-<table align="center">
-<tr>
-<th>BUILDING</th>
-<th>LEARNING</th>
-<th>ENVIRONMENT</th>
-</tr>
-<tr>
-<td align="center">Web Apps</td>
-<td align="center">Web Security</td>
-<td align="center">Arch Linux</td>
-</tr>
-<tr>
-<td align="center">AI Products</td>
-<td align="center">Networking</td>
-<td align="center">Kali Linux</td>
-</tr>
-<tr>
-<td align="center">E-commerce</td>
-<td align="center">Pentesting</td>
-<td align="center">Hyprland</td>
-</tr>
-</table>
-
-<br>
-
-## Projects
-
-**IELTSflow** &nbsp; `AI-powered IELTS learning platform`
-
-Reading, Listening, Writing, and Speaking, with AI evaluation, personalized feedback, study plans, analytics, vocabulary, and mistake tracking. Building it pushed MRX past the frontend into authentication, a Supabase/PostgreSQL backend, AI pipelines, persistence, and full application architecture.
-
-<sub>TypeScript • React • TanStack Start • Supabase • PostgreSQL • AI APIs</sub>
 
 ---
 
-**E-commerce Platform** &nbsp; `Local-business storefront` &nbsp; `ACTIVE DEVELOPMENT`
+## `01` &nbsp; About me
 
-A storefront platform for local shop owners — product/catalog management, categories, images and video, a social-style feed, an admin dashboard, CMS, and inventory.
+I'm a student from Uzbekistan learning software development by building real projects.
 
-<sub>TypeScript • React • Supabase • PostgreSQL • Vite • Tailwind CSS</sub>
+Currently, most of my development effort goes into **IELTSFlow**, a private project I'm working to turn into a useful product. Along the way, I'm learning to write better code, debug problems, and understand the systems behind the features I build.
 
-<br>
+Outside development, I use Arch Linux with Hyprland and explore Kali Linux.
 
-## Security
+I'm still learning, and that's the point.
 
-```text
-WEB SECURITY
-NETWORKING
-LINUX
-PYTHON AUTOMATION
-CTFs
-PENETRATION TESTING
-```
+## `02` &nbsp; What I'm building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,arch,linux,python,bash" alt="Kali Linux, Arch Linux, Linux, Python, Bash" />
-
-[![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=39FF14)](https://nmap.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=00D9FF)](https://www.wireshark.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=39FF14)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=00D9FF)](https://www.metasploit.com/)
+<img src="https://img.shields.io/badge/PROJECT-IELTSFlow-39FF14?style=flat-square&labelColor=0D1117" alt="IELTSFlow project" />
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00D9FF?style=flat-square&labelColor=0D1117" alt="In development" />
 
 </div>
 
-Currently learning through hands-on labs, CTFs, Linux experimentation, and web-security practice.
+**IELTSFlow** is an AI-assisted IELTS preparation platform I'm developing.
 
-<br>
+The idea is simple: practice, understand your weaknesses, work on them, and use the results to decide what to practice next.
 
-## Tech Stack
+My current focus is making the experience feel like one connected learning system rather than a collection of separate features.
 
-**Development**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,tailwind,vite" alt="Python, Java, TypeScript, JavaScript, React, Tailwind, Vite" />
+<sub>TypeScript · React · Supabase</sub>
 
-**Backend / Data**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />&nbsp;
-[![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=39FF14)](https://supabase.com/)
-
-**Systems / Security**
-<br>
-<img src="https://skillicons.dev/icons?i=linux,arch,kali,git,bash" alt="Linux, Arch, Kali, Git, Bash" />
-
-<br>
-
-## Contact
+## `03` &nbsp; My toolkit
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/mrxcyb3r-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrxcyb3r)
-[![X](https://img.shields.io/badge/mrx__404-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mrx__404)
-[![guns.lol](https://img.shields.io/badge/mrx404-6C5CE7?style=flat-square&logo=linktree&logoColor=white)](https://guns.lol/mrx404)
-![Discord](https://img.shields.io/badge/mrx__404-5865F2?style=flat-square&logo=discord&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind&theme=dark" alt="Python, TypeScript, JavaScript, React, Vite and Tailwind CSS" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,git,github&theme=dark" alt="Linux, Arch Linux, Kali Linux, Bash, Git and GitHub" />
 
 </div>
 
-<br>
+<sub>Tools and technologies I've used or am learning through my projects. Icons aren't a claim of mastery.</sub>
+
+## `04` &nbsp; My environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARCH_LINUX-0D1117?style=for-the-badge&logo=archlinux&logoColor=00D9FF" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/HYPRLAND-0D1117?style=for-the-badge&logo=hyprland&logoColor=39FF14" alt="Hyprland" />
+<img src="https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Kali Linux" />
+
+</div>
+
+Linux is my daily environment for development, customization, and learning how my computer works.
+
+## `05` &nbsp; The mindset
 
 <div align="center">
 
 ```text
-BUILD → UNDERSTAND → BREAK → SECURE
+LEARN  →  BUILD  →  DEBUG  →  IMPROVE
 ```
 
-*Knowing how to use a tool isn't the goal — understanding the system it acts on is.*
+*Less pretending. More building.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:39FF14,50:00D9FF,100:0D1117" width="100%" alt="" />
 
 </div>
